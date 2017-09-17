@@ -92,6 +92,7 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Node Interactive](http://events.linuxfoundation.org/events/node-interactive) | October 4-6, 2017 | | Vancouver, Canada |
 | [Paris Web](http://www.paris-web.fr/) | October 5-7, 2017 | | Paris, France |
 | [NCDevCon](http://www.ncdevcon.com/) | October 7-8, 2017 | | Raleigh, NC, USA |
+| [JavaScript Days](https://javascript-days.de) | October 9-11, 2017 | | Berlin, Germany |
 | [Angular Mix](https://angularmix.com) | October 10-11, 2017 | | Orlando, FL, USA |
 | [EmberFest](https://emberfest.eu/) | October 12-13, 2017 | | Berlin, Germany |
 | [Empire Conf](http://2017.empireconf.org/) | October 12-13, 2017 | | New York, NY, USA |
